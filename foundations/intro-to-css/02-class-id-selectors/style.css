@@ -1,16 +1,19 @@
 
 
 .d3{
-    color: green;
+    background-color: #d3494e;
+    font-size: 20px;
 
 }
 #d2{
-    color: red;
+    color: blue;
+    font-size: 40px;
 }
 .d1{
-    color: orange;
+    background-color: #d3494e;
+    
 }
 .d5{
-    color: black;
+    background-color: #d3494e;
 
 }
